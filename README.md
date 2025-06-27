@@ -9,6 +9,8 @@ This repository showcases applied linguistics projects that simulate real-world 
 - Drafted an intelligence-style summary report mimicking DEA linguist output.
 - Applied basic Python scripting for red flag keyword extraction.
 - [🔗 View GitHub Code](https://github.com/jenniiaze/linguistics-ai-projects)
+![GUI Screenshot](gui_preview.png)
+
 
 
 ### 2. Mexican Spanish Jail Call Analysis

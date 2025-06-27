@@ -9,7 +9,12 @@ This repository showcases applied linguistics projects that simulate real-world 
 - Drafted an intelligence-style summary report mimicking DEA linguist output.
 - Applied basic Python scripting for red flag keyword extraction.
 - [🔗 View GitHub Code](https://github.com/jenniiaze/linguistics-ai-projects)
-![GUI Screenshot](gui_preview.png)
+  ### 🖼 GUI Screenshot
+
+Below is a screenshot of the GUI tool built using Python and Tkinter:
+
+![GUI Screenshot](Screen%20Shot%202025-06-26%20at%209.29.39%20PM.png)
+
 
 
 

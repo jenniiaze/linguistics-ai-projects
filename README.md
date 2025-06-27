@@ -1,42 +1,58 @@
-🧠 Linguistics + AI Mock Projects
-Projects simulating real-world applications of forensic linguistics, wiretap transcription, and basic Python scripting for language pattern analysis.
+# 🧠 Linguistics + AI Projects by Jennifer Vazquez
 
-📁 Project 1: Caribbean Dialect Wiretap Analyzer
-Description:
-A simulated jail phone call between two Spanish-speaking individuals using slang, indirect phrasing, and regional dialect (Puerto Rican/Caribbean) to coordinate a transaction. Includes full transcription, English translation, final law enforcement-style summary, and a basic Python script to identify suspicious terms.
+A portfolio of mock linguist projects that blend Spanish-English language analysis with early-stage Python tools and GUI interfaces for law enforcement and AI use cases.
 
-Files:
+---
 
-slang_gui_analyzer.py – GUI interface for entering transcripts and flagging coded language
+## 📁 Project 1: Caribbean Wiretap Decoder
 
-caribbean_wiretap_transcript.txt – Full transcript (Spanish)
+**Description:**  
+A simulated DEA-style wiretap project involving Caribbean Spanish dialects and narco-coded slang. Includes full transcript, English translation, and a final intelligence-style report.
 
-MockWiretapReport_Caribbean.pdf – Final translated report
+**Skills Highlighted:**  
+- Transcription & interpretation  
+- Final report drafting for law enforcement  
+- Coded language decoding  
+- Basic Python scripting (linguistic red flags extraction)
 
-Skills demonstrated:
-Spanish-English translation, slang decoding, GUI with Tkinter, regex, Python basics, linguistic red flag identification
+📄 [Download full PDF report](https://github.com/jenniiaze/linguistics-ai-projects/blob/main/caribbean_wiretap/JenniferVazquez_MockWiretapReport_Caribbean.pdf)
 
-📁 Project 2: Mexican Dialect Wiretap Summary
-Description:
-Short mock wiretap transcription focusing on coded language and negotiation phrases common in Mexican Spanish. Includes direct/translated dialogue and analysis of terms like el ticket, verdes, and el taller. Simulates the type of decoding and cultural interpretation used in DEA linguist tasks.
+---
 
-Files:
+## 📁 Project 2: Mexican Slang GUI Analyzer
 
-MockWiretap_Mexican_JailCoordination.pdf
+**Description:**  
+A mock jail call involving coded Mexican slang like “el ticket” and “los verdes.” The project includes transcript + translation, and a working GUI built with Python that decodes key phrases.
 
-Skills demonstrated:
-transcription, code-switching, cultural nuance, forensic linguistics, strategic summarization
+**What It Includes:**  
+- 📝 Full transcript with analysis  
+- 🐍 Python slang decoder (with CSV export)  
+- 🖥️ GUI interface for interactive exploration
 
-🔧 Tools Used
-Python (basic scripting, Tkinter, regex)
+**Skills Demonstrated:**  
+- Python basics (text parsing, CSV handling)  
+- GUI design with Tkinter  
+- Language/dialect analysis for enforcement  
+- GitHub project setup + documentation
 
-Git + GitHub for version control
+📂 [View project folder](https://github.com/jenniiaze/linguistics-ai-projects/tree/main/slang_gui_project)
 
-Google Colab & VS Code
+📄 [Transcript + Report PDF](https://github.com/jenniiaze/linguistics-ai-projects/blob/main/slang_gui_project/jail_call_transcript.txt)
 
-Spanish-English translation & interpretation
+💻 [Python script – slang_decoder.py](https://github.com/jenniiaze/linguistics-ai-projects/blob/main/slang_gui_project/slang_decoder.py)
 
-👤 Author
-Jennifer Vazquez
-📍 Based in California | Fluent in 🇺🇸 English, 🇲🇽 Spanish
-🎯 Focused on federal linguistics, forensic analysis & applied AI
+---
+
+## 🔧 Tech Tools Used
+
+- Python  
+- Tkinter GUI  
+- Regular Expressions  
+- GitHub (CLI & Desktop)  
+- Markdown
+
+---
+
+🎯 **Open to AI Linguist and Federal Linguistics roles**  
+Based in California | Bilingual (English-Spanish) | Open to relocation  
+

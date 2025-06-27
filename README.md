@@ -1,58 +1,52 @@
-# 🧠 Linguistics + AI Projects by Jennifer Vazquez
+# Linguistics AI Projects  
+A portfolio of linguistics projects simulating real-world federal and AI-focused use cases, including coded language decoding, wiretap transcription, and GUI-based tools using Python.
 
-A portfolio of mock linguist projects that blend Spanish-English language analysis with early-stage Python tools and GUI interfaces for law enforcement and AI use cases.
+## 🕵️ Mock Wiretap Analysis – Caribbean Dialect
 
----
+**Project Description:**  
+This mock wiretap simulates a jailhouse call intercepted between two individuals coordinating a time-sensitive exchange. The dialogue includes regional slang (“el ticket,” “verdes,” “el taller”) and hidden meanings often used to obscure criminal activity.
 
-## 📁 Project 1: Caribbean Wiretap Decoder
+**Deliverables:**  
+- Spanish-language transcript with English translation  
+- Intelligence-style final report summarizing key players, objectives, and contextual dialect analysis  
+- Applied Python scripting to flag suspicious terms and slang variants  
+- GUI tool for phrase input and red flag detection
 
-**Description:**  
-A simulated DEA-style wiretap project involving Caribbean Spanish dialects and narco-coded slang. Includes full transcript, English translation, and a final intelligence-style report.
-
-**Skills Highlighted:**  
-- Transcription & interpretation  
-- Final report drafting for law enforcement  
-- Coded language decoding  
-- Basic Python scripting (linguistic red flags extraction)
-
-📄 [Download full PDF report](https://github.com/jenniiaze/linguistics-ai-projects/blob/main/caribbean_wiretap/JenniferVazquez_MockWiretapReport_Caribbean.pdf)
-
----
-
-## 📁 Project 2: Mexican Slang GUI Analyzer
-
-**Description:**  
-A mock jail call involving coded Mexican slang like “el ticket” and “los verdes.” The project includes transcript + translation, and a working GUI built with Python that decodes key phrases.
-
-**What It Includes:**  
-- 📝 Full transcript with analysis  
-- 🐍 Python slang decoder (with CSV export)  
-- 🖥️ GUI interface for interactive exploration
-
-**Skills Demonstrated:**  
-- Python basics (text parsing, CSV handling)  
-- GUI design with Tkinter  
-- Language/dialect analysis for enforcement  
-- GitHub project setup + documentation
-
-📂 [View project folder](https://github.com/jenniiaze/linguistics-ai-projects/tree/main/slang_gui_project)
-
-📄 [Transcript + Report PDF](https://github.com/jenniiaze/linguistics-ai-projects/blob/main/slang_gui_project/jail_call_transcript.txt)
-
-💻 [Python script – slang_decoder.py](https://github.com/jenniiaze/linguistics-ai-projects/blob/main/slang_gui_project/slang_decoder.py)
+**Files:**  
+- [`caribbean_gui_analyzer.py`](caribbean_gui_analyzer.py)  
+- [`caribbean_transcript.txt`](caribbean_transcript.txt)
 
 ---
 
-## 🔧 Tech Tools Used
+## 🇲🇽 Mock Wiretap Analysis – Mexican Dialect
 
-- Python  
-- Tkinter GUI  
-- Regular Expressions  
-- GitHub (CLI & Desktop)  
-- Markdown
+**Project Description:**  
+This simulated jail call focuses on Mexican-coded language, analyzing phrases like “el ticket,” “los verdes,” and “el taller” within a short but loaded exchange. The goal is to decode implied criminal logistics using cultural context.
+
+**Deliverables:**  
+- Original transcript in Spanish and English translation  
+- Final summary report with role analysis and coded language interpretation  
+- Python slang decoder script that flags predefined key terms  
+- CLI tool to test slang phrases and detect high-risk expressions
+
+**Files:**  
+- [`slang_decoder.py`](slang_decoder.py)  
+- [`example_transcript.txt`](example_transcript.txt)
 
 ---
 
-🎯 **Open to AI Linguist and Federal Linguistics roles**  
-Based in California | Bilingual (English-Spanish) | Open to relocation  
+## How to Use  
+1. Clone the repo or download individual scripts  
+2. Run `.py` files in a Python environment (VS Code or Terminal recommended)  
+3. For GUI versions, just run the script and input a phrase for live decoding
+
+---
+
+## Tools & Skills Applied  
+- Python (Beginner–Intermediate scripting)  
+- GUI (Tkinter)  
+- Linguistic pattern recognition  
+- Cultural dialect analysis  
+- Intelligence-style summary writing  
+- Git & GitHub for version control  
 

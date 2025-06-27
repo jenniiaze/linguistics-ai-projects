@@ -8,7 +8,8 @@ This repository showcases applied linguistics projects that simulate real-world 
 - Transcribed and translated a mock conversation involving coded drug trafficking terms in Puerto Rican Spanish.
 - Drafted an intelligence-style summary report mimicking DEA linguist output.
 - Applied basic Python scripting for red flag keyword extraction.
-- [View PDF Report](link-goes-here)
+- [🔗 View GitHub Code](https://github.com/jenniiaze/linguistics-ai-projects)
+
 
 ### 2. Mexican Spanish Jail Call Analysis
 - Translated and analyzed a mock jail phone call using indirect and slang-heavy language.
